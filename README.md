@@ -12,7 +12,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
-### Contents
+### 内容大纲
 
 - [Awesome Go](#awesome-go)
     - [Audio and Music](#audio-and-music)
@@ -46,7 +46,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     - [Job Scheduler](#job-scheduler)
     - [JSON](#json)
     - [Logging](#logging)
-    - [Machine Learning](#machine-learning)
+    - [机器学习（Machine Learning）](#machine-learning)
     - [Messaging](#messaging)
     - [Microsoft Office](#microsoft-office)
         - [Microsoft Excel](#microsoft-excel)
